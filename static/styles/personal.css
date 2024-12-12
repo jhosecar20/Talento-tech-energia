@@ -1,10 +1,7 @@
 /* codigo mio */
 
 .body_fondo{
-    background-image: url(../assets/img/fondo-ener.png);
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed
+    background-color: #f0eded;
     
 }
 
@@ -63,7 +60,7 @@
   }
   
   .carousel-indicators .active {
-    background-color: #007bff;
+    background-color: #1c4315;
   }
   
   /* Ajusta los botones de control */
